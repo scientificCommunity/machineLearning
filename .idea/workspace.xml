@@ -2,109 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd40dde7-ce1b-4ee6-89b0-fefd3ef72dc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/machinelearninginaction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch02/EXTRAS/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch02/EXTRAS/createDist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/createDist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch02/EXTRAS/createDist2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/createDist2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch02/EXTRAS/createFirstPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/createFirstPlot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch02/EXTRAS/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02/EXTRAS/testSet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch02/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch02/datingTestSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02/datingTestSet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch02/datingTestSet2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02/datingTestSet2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch02/kNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch02/kNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch03/classifierStorage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03/classifierStorage.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch03/lenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03/lenses.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch03/treePlotter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03/treePlotter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch03/trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch03/trees.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch04/EXTRAS/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04/EXTRAS/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch04/EXTRAS/create2Normal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04/EXTRAS/create2Normal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch04/EXTRAS/monoDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04/EXTRAS/monoDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch04/bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04/bayes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/plot2D.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/plot2D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/plotGD.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/plotGD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/plotSDerror.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/plotSDerror.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/EXTRAS/sigmoidPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/EXTRAS/sigmoidPlot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/horseColicTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/horseColicTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/horseColicTraining.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/horseColicTraining.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/logRegres.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/logRegres.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/testSet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch06/EXTRAS/notLinSeperable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06/EXTRAS/notLinSeperable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch06/EXTRAS/plotRBF.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06/EXTRAS/plotRBF.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch06/EXTRAS/plotSupportVectors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06/EXTRAS/plotSupportVectors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch06/svmMLiA.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06/svmMLiA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch06/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06/testSet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch06/testSetRBF.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06/testSetRBF.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch06/testSetRBF2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06/testSetRBF2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch07/EXTRAS/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07/EXTRAS/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch07/EXTRAS/simpleDataPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07/EXTRAS/simpleDataPlot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch07/adaboost.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07/adaboost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch07/horseColicTest2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07/horseColicTest2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch07/horseColicTraining2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch07/horseColicTraining2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/abalone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/abalone.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/ex0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/ex0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/ex1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/ex1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10030.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10030.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10179.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10179.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10181.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10181.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10189.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10189.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego10196.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego10196.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08/setHtml/lego8288.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08/setHtml/lego8288.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_train.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/bikeSpeedVsIq_train.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/ex0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/ex0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/ex00.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/ex00.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/ex2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/ex2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/ex2test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/ex2test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/exp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/exp.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/exp2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/exp2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/expTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/expTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/regTrees.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/regTrees.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/sine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/sine.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch09/treeExplore.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch09/treeExplore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ch10/kMeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10/kMeans.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch10/places.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10/places.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch10/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10/testSet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch10/testSet2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10/testSet2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch11/apriori.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch11/apriori.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch11/bills20DataSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch11/bills20DataSet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch11/lawAssnRules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch11/lawAssnRules.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch11/meaning20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch11/meaning20.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch11/recent100bills.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch11/recent100bills.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch11/recent20bills.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch11/recent20bills.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch12/fpGrowth.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12/fpGrowth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch13/extras/createFig1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13/extras/createFig1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch13/extras/createFig2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13/extras/createFig2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch13/extras/createFig3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13/extras/createFig3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch13/extras/createFig4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13/extras/createFig4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch13/pca.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13/pca.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch13/secom.data" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13/secom.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch13/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13/testSet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch13/testSet3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch13/testSet3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch14/0_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14/0_5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch14/svdRec.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch14/svdRec.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/kickStart.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/kickStart.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/mrMean.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/mrMean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/mrMeanMapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/mrMeanMapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/mrMeanReducer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/mrMeanReducer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/mrSVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/mrSVM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/mrSVMkickStart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/mrSVMkickStart.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/myout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/myout.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/pegasos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/pegasos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/proximalSVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/proximalSVM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/svmDat2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/svmDat2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/svmDat26" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/svmDat26" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/svmDat27" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/svmDat27" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/svmData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/svmData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/testSet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch15/testSet200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ch15/testSet200.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ch10/kMeans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="284">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -172,6 +71,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -227,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.kNN">
+  <component name="RunManager" selected="Python.kMeans">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="machinelearninginaction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,6 +172,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="kMeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="machinelearninginaction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch10/kMeans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="kNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="machinelearninginaction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,6 +218,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.kMeans" />
         <item itemvalue="Python.kNN" />
         <item itemvalue="Python.createDist" />
       </list>
@@ -315,24 +238,32 @@
       <workItem from="1565671884164" duration="4083000" />
       <workItem from="1567416593026" duration="493000" />
       <workItem from="1567738776058" duration="405000" />
-      <workItem from="1568192336180" duration="2111000" />
+      <workItem from="1568192336180" duration="3385000" />
     </task>
+    <task id="LOCAL-00001" summary="计算随机质心报错的问题">
+      <created>1568197880105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568197880105</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9383000" />
+    <option name="totallyTimeSpent" value="10657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16309012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16309012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3566265" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3566265" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -381,8 +312,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="计算随机质心报错的问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="计算随机质心报错的问题" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/machinelearninginaction$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1568194210627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch02" />
+    <SUITE FILE_PATH="coverage/machinelearninginaction$kMeans.coverage" NAME="kMeans Coverage Results" MODIFIED="1568198096623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch10" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Ch02/datingTestSet2.txt">
@@ -450,10 +386,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ch10/kMeans.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="284">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>

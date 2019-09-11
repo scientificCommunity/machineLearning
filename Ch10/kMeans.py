@@ -11,11 +11,12 @@ def loadDataSet(fileName):      #general function to parse tab -delimited floats
     fr = open(fileName)
     for line in fr.readlines():
         curLine = line.strip().split('\t')
+        # python2写法
         # fltLine = map(float,curLine) #map all elements to float()
         # dataMat.append(fltLine)
-        fltLine = []
-        for i in curLine:
-            fltLine.append(float(i))
+        #python3写法   map(float, curLine) 在python2中返回的是一个list类型数据，而在python3中该语句返回的是一个map类型的数据
+        #所以这里加个list()函数
+        fltLine = list(map(float, curLine))
         dataMat.append(fltLine)
     return dataMat
 
