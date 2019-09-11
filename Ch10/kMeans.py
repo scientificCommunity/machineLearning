@@ -11,7 +11,11 @@ def loadDataSet(fileName):      #general function to parse tab -delimited floats
     fr = open(fileName)
     for line in fr.readlines():
         curLine = line.strip().split('\t')
-        fltLine = map(float,curLine) #map all elements to float()
+        # fltLine = map(float,curLine) #map all elements to float()
+        # dataMat.append(fltLine)
+        fltLine = []
+        for i in curLine:
+            fltLine.append(float(i))
         dataMat.append(fltLine)
     return dataMat
 
