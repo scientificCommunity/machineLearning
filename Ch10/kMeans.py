@@ -4,6 +4,7 @@ k Means Clustering for Ch10 of Machine Learning in Action
 @author: Peter Harrington
 '''
 from numpy import *
+import tensorflow as tf
 
 # 将数据加载到dataMat中
 def loadDataSet(fileName):      #general function to parse tab -delimited floats
