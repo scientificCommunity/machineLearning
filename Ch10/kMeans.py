@@ -1,9 +1,7 @@
-'''
-Created on Feb 16, 2011
-k Means Clustering for Ch10 of Machine Learning in Action
-@author: Peter Harrington
-'''
+import os
+import numpy as np
 from numpy import *
+from PIL import Image
 import tensorflow as tf
 
 # 将数据加载到dataMat中
@@ -34,10 +32,28 @@ def randCent(dataSet, k):
         rangeJ = float(max(dataSet[:,j]) - minJ)
         centroids[:,j] = mat(minJ + rangeJ * random.rand(k,1))
     return centroids
-    
+
+# 数据文件夹
+data_dir = "data"
+
+def read_data(data_dir=data_dir):
+    datas = []
+    fpaths = []
+    for fname in os.listdir(data_dir):
+        fpath = os.path.join(data_dir, fname)
+        fpaths.append(fpath)
+        image = Image.open(fpath)
+        data = np.array(image) / 255.0
+        datas.append(data)
+
+    datas = np.array(datas)
+
+    print("shape of datas: {}".format(datas.shape))
+    return fpaths, datas
+
 def kMeans(dataSet, k, distMeas=distEclud, createCent=randCent):
     m = shape(dataSet)[0]
-    clusterAssment = mat(zeros((m,2)))#create mat to assign data points 
+    clusterAssment = mat(zeros((m,2)))#create mat to assign data points
                                       #to a centroid, also holds SE of each point
     centroids = createCent(dataSet, k)
     clusterChanged = True
