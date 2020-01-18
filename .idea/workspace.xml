@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd40dde7-ce1b-4ee6-89b0-fefd3ef72dc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/machinelearninginaction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/machinelearninginaction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch10/myKmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10/myKmeans.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ch10/vgg16/test2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -233,7 +230,7 @@
       <workItem from="1571727764001" duration="967000" />
       <workItem from="1575604481676" duration="6622000" />
       <workItem from="1579252690608" duration="6204000" />
-      <workItem from="1579313596893" duration="1207000" />
+      <workItem from="1579313596893" duration="1230000" />
     </task>
     <task id="LOCAL-00001" summary="计算随机质心报错的问题">
       <created>1568197880105</created>
@@ -270,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570704815335</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="11">
+      <created>1579360451152</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579360451152</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,6 +293,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="995" y="336" key="#myKmeans/0.0.2560.1400@0.0.2560.1400" timestamp="1579253552463" />
+    <state x="892" y="297" key="CommitChangelistDialog2" timestamp="1579360449701">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="892" y="297" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1579360449701" />
     <state width="1657" height="466" key="DebuggerActiveHint" timestamp="1579254241472">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -329,6 +337,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="783" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1579261239065" />
+    <state x="872" y="436" key="Vcs.Push.Dialog.v2" timestamp="1579360452324">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1579360452324" />
     <state x="972" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1579313603096">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
