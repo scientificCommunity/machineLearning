@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd40dde7-ce1b-4ee6-89b0-fefd3ef72dc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch10/vgg16/test1/vgg16test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/machinelearninginaction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/machinelearninginaction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch10/myKmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ch10/myKmeans.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ch10/vgg16/test1/vgg16test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,104 +19,26 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>print &quot;</find>
-      <find>means</find>
-      <find>slc</find>
-      <find>kmeans</find>
-      <find>dist</find>
-      <find>kMeans</find>
-      <find>_as_variant_tensor</find>
-      <find>sif</find>
-      <find>orb</find>
-      <find>print</find>
-      <find>picture</find>
-      <find>177-3</find>
-      <find>191-8</find>
-      <find>([^0-9])181-5</find>
-      <find>[^0-9]18[^.*]</find>
-      <find>[\s]18</find>
-      <find>[^\n]\s18</find>
-      <find>kernel</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>print</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Ch02/datingTestSet2.txt" />
-        <option value="$PROJECT_DIR$/Ch02/kNN.py" />
-        <option value="$PROJECT_DIR$/Ch10/myKmeans.py" />
-        <option value="$PROJECT_DIR$/Ch10/myKmeans1.py" />
-        <option value="$PROJECT_DIR$/Ch10/test1.py" />
-        <option value="$PROJECT_DIR$/Ch10/kMeans.py" />
-        <option value="$PROJECT_DIR$/Ch10/test2.py" />
-        <option value="$PROJECT_DIR$/Ch10/opencv/test1.py" />
-        <option value="$PROJECT_DIR$/Ch10/keras/k1.py" />
-        <option value="$PROJECT_DIR$/Ch10/vgg16/kv2.py" />
-        <option value="$PROJECT_DIR$/Ch10/vgg16/kv1.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/pycharm.vmoptions" />
-        <option value="$PROJECT_DIR$/Ch10/kmeans2/k1.py" />
-        <option value="$PROJECT_DIR$/Ch10/vgg16/test1/vgg16test1.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
+  <component name="JupyterTrust" id="7061d299-4d74-4aa2-86e6-b3baa4257a0a" />
+  <component name="ProjectId" id="1WW5p85RhymjAycxnEaXjaTmycG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch10" type="462c0819:PsiDirectoryNode" />
-              <item name="vgg16" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="machinelearninginaction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="machinelearninginaction" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch10" type="462c0819:PsiDirectoryNode" />
-              <item name="vgg16" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -139,19 +50,7 @@
       <recent name="$PROJECT_DIR$/Ch10" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.kv1">
+  <component name="RunManager" selected="Python.myKmeans">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="machinelearninginaction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,6 +139,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="myKmeans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machinelearninginaction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch10/myKmeans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="machinelearninginaction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,37 +183,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="machinelearninginaction" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ch10/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.myKmeans" />
         <item itemvalue="Python.kv1" />
         <item itemvalue="Python.kv2" />
         <item itemvalue="Python.k1" />
         <item itemvalue="Python.test1 (1)" />
-        <item itemvalue="Python.test2" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -321,6 +232,8 @@
       <workItem from="1571726612069" duration="116000" />
       <workItem from="1571727764001" duration="967000" />
       <workItem from="1575604481676" duration="6622000" />
+      <workItem from="1579252690608" duration="6204000" />
+      <workItem from="1579313596893" duration="1207000" />
     </task>
     <task id="LOCAL-00001" summary="计算随机质心报错的问题">
       <created>1568197880105</created>
@@ -360,65 +273,6 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50869000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19098713" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3566265" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.20361446" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" x="0" y="0" width="300" height="586" id="Documentation" order="6" side_tool="true" weight="0.3297568" />
-      <window_info anchor="right" id="Database" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17167382" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3566265" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.2759036" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3297568" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" x="0" y="0" width="300" height="586" id="Documentation" order="6" side_tool="true" visible="true" weight="0.3297568" />
-      <window_info anchor="right" id="Database" order="7" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -430,170 +284,74 @@
     <MESSAGE value="11" />
     <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="995" y="336" key="#myKmeans" timestamp="1579253552463">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="995" y="336" key="#myKmeans/0.0.2560.1400@0.0.2560.1400" timestamp="1579253552463" />
+    <state width="1657" height="466" key="DebuggerActiveHint" timestamp="1579254241472">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1657" height="466" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1579254241472" />
+    <state width="2517" height="435" key="GridCell.Tab.0.bottom" timestamp="1579254491003">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="435" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579254491003" />
+    <state width="2517" height="435" key="GridCell.Tab.0.center" timestamp="1579254491003">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="435" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579254491003" />
+    <state width="2517" height="435" key="GridCell.Tab.0.left" timestamp="1579254491003">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="435" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579254491003" />
+    <state width="2517" height="435" key="GridCell.Tab.0.right" timestamp="1579254491003">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="435" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579254491003" />
+    <state width="2517" height="435" key="GridCell.Tab.1.bottom" timestamp="1579254491003">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="435" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579254491003" />
+    <state width="2517" height="435" key="GridCell.Tab.1.center" timestamp="1579254491003">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="435" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579254491003" />
+    <state width="2517" height="435" key="GridCell.Tab.1.left" timestamp="1579254491003">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="435" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579254491003" />
+    <state width="2517" height="435" key="GridCell.Tab.1.right" timestamp="1579254491003">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="435" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579254491003" />
+    <state x="783" y="345" key="SettingsEditor" timestamp="1579261239065">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="783" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1579261239065" />
+    <state x="972" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1579313603096">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="972" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579313603096" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/machinelearninginaction$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1568708324917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch10" />
-    <SUITE FILE_PATH="coverage/machinelearninginaction$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1568194210627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch02" />
-    <SUITE FILE_PATH="coverage/machinelearninginaction$myKmeans.coverage" NAME="myKmeans Coverage Results" MODIFIED="1568618030847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch10" />
-    <SUITE FILE_PATH="coverage/machinelearninginaction$kMeans.coverage" NAME="kMeans Coverage Results" MODIFIED="1568708110031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch10" />
-    <SUITE FILE_PATH="coverage/machinelearninginaction$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1568709519834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch10" />
     <SUITE FILE_PATH="coverage/machinelearninginaction$myKmeans1.coverage" NAME="myKmeans1 Coverage Results" MODIFIED="1568702955346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch10" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0221-1.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0248-7.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0257-1.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0181-5.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/01078-8.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0450-8.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0437-7.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0402-4.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/1164-4.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/1158-7.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0546-3.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0248-4.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0240-2.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/01192-4.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/1192-6.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/1190-3.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/1192-1.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/1180-2.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/1172-2.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/1195-1.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/1184-8.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0180-3.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0198-8.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0246-5.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0254-8.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0293-8.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0325-2.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0358-6.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0404-7.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0436-3.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0437-4.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0462-7.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0687-2.jpg" />
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/pic/0919-4.jpg" />
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-376653328/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50004">
-          <caret line="2816" column="4" selection-start-line="2816" selection-start-column="4" selection-end-line="2816" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm.vmoptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/python27/lib/python2.7/os.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-376653328/posix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8712">
-          <caret line="484" column="4" selection-start-line="484" selection-start-column="4" selection-end-line="484" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/python27/lib/python2.7/site-packages/sklearn/cluster/k_means_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16020">
-          <caret line="914" column="8" selection-start-line="914" selection-start-column="8" selection-end-line="914" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch10/knn_res.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch10/kMeans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch10/vgg16/kv1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="66" column="22" lean-forward="true" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-          <folding>
-            <element signature="e#22#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-376653328/numpy/core/_multiarray_umath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="7886" column="4" selection-start-line="7886" selection-start-column="4" selection-end-line="7886" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/python27/lib/python2.7/site-packages/numpy/lib/histograms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="924" column="4" selection-start-line="924" selection-start-column="4" selection-end-line="924" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch10/vgg16/kv2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="112" column="25" lean-forward="true" selection-start-line="112" selection-start-column="25" selection-end-line="112" selection-end-column="25" />
-          <folding>
-            <element signature="e#56#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/knn_res.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37817">
-          <caret line="73098" column="13" selection-start-line="73098" selection-start-column="13" selection-end-line="73098" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch10/kmeans2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="https://github.com/jesolem/PCV.git">
-      <provider selected="true" editor-type-id="httpFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch10/keras/k1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="87" column="56" selection-start-line="87" selection-start-column="36" selection-end-line="87" selection-end-column="56" />
-          <folding>
-            <element signature="e#22#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch10/kmeans2/k1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="e#24#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ch10/vgg16/test1/vgg16test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/machinelearninginaction$myKmeans.coverage" NAME="myKmeans Coverage Results" MODIFIED="1568618030847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch10" />
+    <SUITE FILE_PATH="coverage/machineLearning$myKmeans.coverage" NAME="myKmeans Coverage Results" MODIFIED="1579254191618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch10" />
+    <SUITE FILE_PATH="coverage/machinelearninginaction$kMeans.coverage" NAME="kMeans Coverage Results" MODIFIED="1568708110031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch10" />
+    <SUITE FILE_PATH="coverage/machinelearninginaction$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1568194210627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch02" />
+    <SUITE FILE_PATH="coverage/machinelearninginaction$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1568709519834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ch10" />
   </component>
 </project>

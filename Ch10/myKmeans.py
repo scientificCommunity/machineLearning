@@ -2,16 +2,20 @@ import numpy as np
 import tensorflow as tf
 
 import glob
+import os
 # images_dir 下存放着需要预处理的图像
-images_dir = '/data/captcha/backup/a/'
+images_dir = './data/'
 
 # 查找图片文件, 根据具体数据集自由添加各种图片格式(jpg, jpeg, png, bmp等等)
+images_paths1 = os.listdir(images_dir)
 images_paths = glob.glob(images_dir+'*.jpg')
 # images_paths += glob.glob(images_dir+'*.jpeg')
 # images_paths += glob.glob(images_dir+'*.png')
 print('Find {} images, the first 10 image paths are:'.format(len(images_paths)))
-for path in images_paths[:10]:
+for idx, path in enumerate(images_paths1[:10]):
     print(path)
+    print(idx)
+    images_paths[idx] = images_dir + path
 
 # split training set and test data
 test_split_factor = 0.2
